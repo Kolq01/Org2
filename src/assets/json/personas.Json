@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+
+    "nombre": "Rene Ros",
+
+    "rol": "Director"
+  },
+
+  {
+    "id": 2,
+
+    "nombre": "Matias Molina",
+
+    "rol": "Dev",
+
+    "depende": 1
+  },
+
+  {
+    "id": 3,
+
+    "nombre": "Barbara Newman",
+
+    "rol": "Dev Jr",
+
+    "depende": 1
+  },
+
+  {
+    "id": 4,
+
+    "nombre": "Pedro Pruebas",
+
+    "rol": "Dev Ssr",
+
+    "depende": 2
+  },
+
+  {
+    "id": 5,
+
+    "nombre": "Pedro Pruebas 2",
+
+    "rol": "Dev Sr",
+
+    "depende": 2
+  }
+]
